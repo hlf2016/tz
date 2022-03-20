@@ -1,2 +1,1 @@
-
-vless://781de5fb-0a42-48ec-8c4c-f257e436d8dd@43.154.8.91:443?type=tcp&security=xtls&flow=xtls-rprx-direct#tencent
+trojan://b83a2ccc-c148-4c42-ab7d-dabacd429b7b@43.154.8.91:31296#trojan%7CHK
